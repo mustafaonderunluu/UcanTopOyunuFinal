@@ -1,0 +1,17 @@
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\bin\Debug\net8.0-windows\UcanTopOyunu.exe
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\bin\Debug\net8.0-windows\UcanTopOyunu.deps.json
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\bin\Debug\net8.0-windows\UcanTopOyunu.runtimeconfig.json
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\bin\Debug\net8.0-windows\UcanTopOyunu.dll
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\bin\Debug\net8.0-windows\UcanTopOyunu.pdb
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\obj\Debug\net8.0-windows\UcanTopOyunu.Form1.resources
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\obj\Debug\net8.0-windows\UcanTopOyunu.csproj.GenerateResource.cache
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\obj\Debug\net8.0-windows\UcanTopOyunu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\obj\Debug\net8.0-windows\UcanTopOyunu.AssemblyInfoInputs.cache
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\obj\Debug\net8.0-windows\UcanTopOyunu.AssemblyInfo.cs
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\obj\Debug\net8.0-windows\UcanTopOyunu.csproj.CoreCompileInputs.cache
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\obj\Debug\net8.0-windows\UcanTopOyunu.dll
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\obj\Debug\net8.0-windows\refint\UcanTopOyunu.dll
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\obj\Debug\net8.0-windows\UcanTopOyunu.pdb
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\obj\Debug\net8.0-windows\UcanTopOyunu.genruntimeconfig.cache
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\obj\Debug\net8.0-windows\ref\UcanTopOyunu.dll
+D:\Proje\C#\UcanTopOyunu\UcanTopOyunu\obj\Debug\net8.0-windows\UcanTopOyunu.sourcelink.json
